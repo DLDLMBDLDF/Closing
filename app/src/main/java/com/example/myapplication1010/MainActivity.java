@@ -7,7 +7,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    //백버튼이 눌린 마지막 시간을 저장함.
+    //백버튼이 눌린 마지막 시간을 저장함.-
     private long backKeyPressedTime = 0;
 
     @Override
